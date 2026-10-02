@@ -94,3 +94,10 @@ img{
   body {
     padding-bottom: 60px;
   }
+  h3{
+    background-position:center;
+    color: white;
+    background: rgba(0,0,0,0.5);
+    
+    
+  }
