@@ -38,7 +38,7 @@ div {
   max-width: 500px;
   object-fit:cover ;
   color:white ;
-  font-size:20px;
+  font-size:10px;
   font-weight: bold;
   gap: 12px;
 }
