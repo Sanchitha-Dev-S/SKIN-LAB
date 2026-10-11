@@ -1,0 +1,30 @@
+body{
+  background-image: url("1179315-1920x1080-desktop-1080p-garrys-mod-background-photo.jpg");
+  background-size:cover;
+  background-repeat: no-repeat; 
+  background-position: center; 
+  }
+
+h1{
+  padding:5px;
+  background-color: #00BCFF ;
+  backdrop-filter: blur(10px);
+  color:white ;
+  transition:all 0.35 ease;
+  border:2px solid rgba(0,0,0,0.3);
+  
+}
+
+h1:hover{
+  transform:translateY(-7px) ;
+  
+}
+
+div {
+  color: white;
+  padding: 1px;
+  background-color: rgba(0,0,0,0.6);
+  background-clip: padding-box;
+  border:3px solid rgba(0,0,0,0.8);
+  margin-bottom:6px;
+}

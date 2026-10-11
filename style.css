@@ -65,7 +65,7 @@ transform: translateY(-2px);
 
 
   .event-horizon-btn {
-    position: fixed;
+    position: fixed;rgba(0, 188, 255, 0.4);
     bottom: 0;
     left: 0;
     width: 100%;
